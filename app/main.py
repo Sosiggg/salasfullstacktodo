@@ -60,6 +60,7 @@ def delete_task(task_id: int, db: Session = Depends(get_db)):
 
 origins = [
     "http://localhost:3000", 
+    "http://localhost:8081", 
     "https://salastodolistfastapi.netlify.app", 
 ]
 
