@@ -25,8 +25,8 @@ This is the backend of the **SalasFullStackToDo** application. It is built using
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/salasfullstacktodo-backend.git
-cd salasfullstacktodo-backend
+git clone https://github.com/sosiggg/salasfullstacktodo.git
+cd salasfullstacktodo
 ```
 
 2. **Install dependencies:**
